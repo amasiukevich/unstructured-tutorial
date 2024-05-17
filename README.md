@@ -1,4 +1,6 @@
-# Tutorial for Unstructured.io. Code from Deeplearning.AI's course on Unstructured
+# Tutorial for Unstructured.io library usage
+
+All the code comes from examples of DeepLearning.AI's [course](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/) on Unstructured.
 
 Includes
 - Normalizing elements of several documents (PPTX, PDF, MD)
