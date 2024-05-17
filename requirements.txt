@@ -1,0 +1,8 @@
+unstructured[all-docs]
+ipykernel
+python-dotenv
+nltk
+chromadb
+langchain
+langchain-openai
+langchain-ollama
